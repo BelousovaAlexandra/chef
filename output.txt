@@ -1,0 +1,5 @@
+Calories in salad "Holodnik" - 57.0;
+Fitting in cal48 - Fitting vegetables: Green Onion; Cucumber; ;
+Salad{name=Holodnik, ingredients=[name: Beatsweight: 20.0; calories: 50.0minsToCook=20.0}, name: Green Onionweight: 30.0; calories: 3.5digestPersents=70.0}, name: Cucumberweight: 75.0; calories: 3.5digestPersents=98.0}], flavoring=kefir, cost=41.3};
+
+======= end of the file =======
