@@ -2,7 +2,7 @@ package com.epam.five.entity;
 
 import com.epam.five.exception.LogicException;
 
-public class Vegetable implements Comparable <Vegetable> {
+public class Vegetable{
     private String name;
     private double weight;
     private double calories;
@@ -14,6 +14,12 @@ public class Vegetable implements Comparable <Vegetable> {
         this.weight = 0;
         this.calories = 0;
         this.needToPeel = false;
+    }
+     public Vegetable(String name, double weight, double calories,boolean peeling) throws LogicException {
+        this.name = name;
+        setWeight(weight);
+        setCalories(calories);
+        this.needToPeel = peeling;
     }
 
     public String getName() {
@@ -40,15 +46,14 @@ public class Vegetable implements Comparable <Vegetable> {
         return calories;
     }
 
-    public void setCalories(double calories){
-        //if(calories > 0){
+    public void setCalories(double calories) throws LogicException{
+        if(calories > 0){
             this.calories = calories;
-        /*} else{
+        } else{
             throw new LogicException();
-        }*/
+        }
         
-    }
-    
+    }    
     public boolean isNeedToPeel() {
         return needToPeel;
     }
@@ -56,19 +61,7 @@ public class Vegetable implements Comparable <Vegetable> {
     public void setNeedToPeel(boolean needToPeel) {
         this.needToPeel = needToPeel;
     }
-    
 
-    public Vegetable(String name, double weight, double calories,boolean peeling) throws LogicException {
-        this.name = name;
-        setWeight(weight);
-        setCalories(calories);
-        this.needToPeel = peeling;
-    }
-
-    @Override
-    public int compareTo(Vegetable t) {
-        return (int)(this.weight-t.getWeight());
-    }
     @Override
     public String toString() {
         return ("name: " + this.name + "weight: " + this.weight + "; calories: " + this.calories);
