@@ -15,7 +15,7 @@ public class FindAction {
                 fits+=ingr.get(i).getName()+"; ";
             }
         }
-        reporter.throwLog("Found vegetables in given range of calories");
+        reporter.reportToLog("Found vegetables in given range of calories");
         reporter.reportToFile("Fitting in cal "+cal+" - "+fits);
         return true;
     }

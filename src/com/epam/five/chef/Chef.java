@@ -15,10 +15,11 @@ public class Chef {
     static{
         new DOMConfigurator().doConfigure("config/log4j.xml", LogManager.getLoggerRepository());
     }
+    
     public static void main(String[] args) {
         try{
         ChefReports reporter = new ChefReports();
-        reporter.throwLog("Programm Started");
+        reporter.reportToLog("Programm Started");
         Creator creator = new Creator();
         CountAction actC = new CountAction();
         FindAction actF = new FindAction();
@@ -34,7 +35,7 @@ public class Chef {
         actSW.sortSalad(s);
         reporter.reportToFile(s.toString());
         
-        reporter.throwLog("End of the program");
+        reporter.reportToLog("End of the program");
         reporter.reportToFile("End of the program");
         reporter.closeFile();
         

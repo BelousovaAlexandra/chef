@@ -22,7 +22,7 @@ public class ChefReports extends Report{
         super(b);
     }
     @Override
-    public void throwLog(String s) {
+    public void reportToLog(String s) {
         LOG.info(s);
     }   
     

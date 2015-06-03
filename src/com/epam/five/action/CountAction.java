@@ -11,7 +11,7 @@ public class CountAction {
        for(int i = 0; i < s.getIngredients().size(); ++i){
            sum+=s.getIngredients().get(i).getCalories();
        }
-       reporter.throwLog("Counted calories");
+       reporter.reportToLog("Counted calories");
        reporter.reportToFile("Calories in salad \""+s.getName()+"\" - "+sum);
        reporter.closeFile();
        return sum;

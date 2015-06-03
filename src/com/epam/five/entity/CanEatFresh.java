@@ -16,7 +16,7 @@ public class CanEatFresh extends Vegetable{
         setDigestPersents(digestPersents);
     }
 
-        public double getDigestPersents() {
+    public double getDigestPersents() {
         return digestPersents;
     }
 

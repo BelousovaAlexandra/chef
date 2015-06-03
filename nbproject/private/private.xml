@@ -2,19 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/creator/Creator.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/entity/Salad.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/exception/LogicException.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/report/ActionReports.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/chef/Chef.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/entity/Greens.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/entity/Vegetable.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/entity/CanEatFresh.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/action/Actions.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/report/ChefReports.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/exception/TechnicalException.java</file>
-            <file>file:/C:/Users/Mira/Documents/NetBeansProjects/chef/src/com/epam/five/entity/NeedToCook.java</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>

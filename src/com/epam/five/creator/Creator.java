@@ -26,7 +26,7 @@ public class Creator {
         s.addVeg(new CanEatFresh("Tomato",3.5,75,false,80));
         s.addVeg(new CanEatFresh("Onion",3.5,30,true,70));
         s.setFlavoring("oil");
-        reporter.throwLog("Created user's salad");
+        reporter.reportToLog("Created user's salad");
         return s;
     }
     public Salad setSaladSimple() throws LogicException{
@@ -37,7 +37,7 @@ public class Creator {
         s.addVeg(new CanEatFresh("Cucumber",3.5,75,false,98));
         s.addVeg(new CanEatFresh("Pepper",3.5,75,false,80));
         s.setFlavoring("olive oil");
-        reporter.throwLog("Created user's salad");
+        reporter.reportToLog("Created user's salad");
         return s;
     }
     public Salad setSaladHolodnik() throws LogicException{
@@ -51,7 +51,7 @@ public class Creator {
         s.setIngredients(ing);
         s.setFlavoring("kefir");
         
-        reporter.throwLog("Created user's salad");
+        reporter.reportToLog("Created user's salad");
         
         return s;
         
@@ -62,7 +62,7 @@ public class Creator {
         s.addVeg(new CanEatFresh("Green Onion",3.5,30,false,70));
         s.addVeg(new CanEatFresh("Cucumber",3.5,75,false,98));
         s.setFlavoring("cream");
-        reporter.throwLog("Created user's salad");
+        reporter.reportToLog("Created user's salad");
         return s;
     }
 }

@@ -1,0 +1,10 @@
+27.05.2015 08:50:41 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+27.05.2015 08:50:41 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+27.05.2015 08:50:41 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+27.05.2015 08:50:41 [main] INFO  com.epam.five.report.ActionReports  - Found vegetables in given range of calories
+27.05.2015 08:50:41 [main] INFO  com.epam.five.chef.Chef  - End of the program
+27.05.2015 17:27:07 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+27.05.2015 17:27:07 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+27.05.2015 17:27:07 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+27.05.2015 17:27:07 [main] INFO  com.epam.five.report.ActionReports  - Found vegetables in given range of calories
+27.05.2015 17:27:07 [main] INFO  com.epam.five.chef.Chef  - End of the program

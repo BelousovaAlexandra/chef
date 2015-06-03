@@ -1,4 +1,0 @@
-Salad{name=Holodnik, ingredients=[name: Green Onionweight: 3.5; calories: 30.0digestPersents=70.0}, name: Cucumberweight: 3.5; calories: 75.0digestPersents=98.0}, name: Beatsweight: 50.0; calories: 20.0minsToCook=20.0}], flavoring=kefir, cost=41.3};
-End of the program;
-
-======= end of the file =======

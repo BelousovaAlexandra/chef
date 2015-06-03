@@ -17,6 +17,7 @@ public abstract class Report {
     }
 
     public Report(String filename, boolean b) throws IOException {
+        
         this.fw = new FileWriter(filename, b);
     }
         
@@ -26,7 +27,7 @@ public abstract class Report {
     public void reportToFile(String s) throws IOException{
         fw.write(s+";\r\n");
     }
-    public abstract void throwLog(String s);
+    public abstract void reportToLog(String s);
     
     public void closeFile() throws IOException{
         fw.write("\r\n======= end of the file =======");

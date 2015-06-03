@@ -1,0 +1,39 @@
+2015-05-26 22:31:14,386 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+2015-05-26 22:31:14,401 [main] ERROR com.epam.five.chef.Chef  - Technical Error - java.lang.NullPointerException
+2015-05-26 22:32:13,090 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+2015-05-26 22:32:13,098 [main] ERROR com.epam.five.chef.Chef  - Technical Error - java.lang.NullPointerException
+2015-05-26 22:33:54,956 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+2015-05-26 22:33:54,967 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+2015-05-26 22:33:54,968 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+2015-05-26 22:33:54,990 [main] INFO  com.epam.five.chef.Chef  - End of the program
+2015-05-26 22:49:32,802 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+2015-05-26 22:49:32,817 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+2015-05-26 22:49:32,819 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+2015-05-26 22:49:32,825 [main] INFO  com.epam.five.chef.Chef  - End of the program
+26.05.2015 22:52:29 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+26.05.2015 22:52:29 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+26.05.2015 22:52:29 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+26.05.2015 22:52:29 [main] INFO  com.epam.five.chef.Chef  - End of the program
+26.05.2015 22:54:19 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+26.05.2015 22:54:19 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+26.05.2015 22:54:19 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+26.05.2015 22:54:19 [main] INFO  com.epam.five.chef.Chef  - End of the program
+26.05.2015 22:55:51 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+26.05.2015 22:55:51 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+26.05.2015 22:55:51 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+26.05.2015 22:55:51 [main] INFO  com.epam.five.chef.Chef  - End of the program
+26.05.2015 22:56:37 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+26.05.2015 22:56:37 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+26.05.2015 22:56:37 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+26.05.2015 22:56:37 [main] INFO  com.epam.five.report.ActionReports  - Found vegetables in given range of calories
+26.05.2015 22:56:37 [main] INFO  com.epam.five.chef.Chef  - End of the program
+26.05.2015 23:04:43 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+26.05.2015 23:04:43 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+26.05.2015 23:04:43 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+26.05.2015 23:04:43 [main] INFO  com.epam.five.report.ActionReports  - Found vegetables in given range of calories
+26.05.2015 23:04:43 [main] INFO  com.epam.five.chef.Chef  - End of the program
+26.05.2015 23:05:40 [main] INFO  com.epam.five.chef.Chef  - Programm Started
+26.05.2015 23:05:40 [main] INFO  com.epam.five.creator.Creator  - Created user's salad
+26.05.2015 23:05:40 [main] INFO  com.epam.five.report.ActionReports  - Counted calories
+26.05.2015 23:05:40 [main] INFO  com.epam.five.report.ActionReports  - Found vegetables in given range of calories
+26.05.2015 23:05:40 [main] INFO  com.epam.five.chef.Chef  - End of the program
